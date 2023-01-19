@@ -8,7 +8,11 @@
 <a href="https://medium.com/@murodbek" target="_blank"><img align="left" alt="Abror Shopulatov | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 
 <br />
-## About me
+<br />
+<br />
+
+### About me
+
 -   🔭 I am working (more precisely trying to work) as **Data Scientist**
 -   :monocle_face: Interested in everything **Machine Learning**
 -   :seedling: Currently learning **PyTorch's fast.ai**
