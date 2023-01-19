@@ -8,11 +8,12 @@
 <a href="https://medium.com/@murodbek" target="_blank"><img align="left" alt="Abror Shopulatov | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 
   
+
 -   :video_game: I am working (more precisely trying to work) as **Data Scientist**
 -   :monocle_face: Interested in everything **Machine Learning**
 -   :seedling: Currently learning **PyTorch's fast.ai**
 -   :heart: Math enthusiast
--   :fun_face: I trained my first ML model 1 hour without a GPU 
+-   ⚡ I trained my first ML model 1 hour without a GPU 
 <!--
 **shopulatov/shopulatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
