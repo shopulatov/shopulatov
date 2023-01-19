@@ -9,7 +9,6 @@
 
 <br />
 <br />
-<br />
 
 ### About me
 
@@ -21,7 +20,7 @@
 
 <br />
 
-### 📕 Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Why AI is harder than we think (UZ)](https://shopulatov.github.io/2023/01/12/AI-is-hard.html)
