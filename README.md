@@ -16,7 +16,7 @@
 -   :monocle_face: Interested in everything **Machine Learning**
 -   :seedling: Currently learning **PyTorch's fast.ai**
 -   :heart: Math enthusiast
--   ⚡ I trained my first ML model 1 hour without a GPU 
+-   ⚡ I trained my first SOTA ML model without a GPU 
 
 <br />
 
