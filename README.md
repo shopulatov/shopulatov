@@ -12,11 +12,10 @@
 
 ### About me
 
--   🔭 I am working (more precisely trying to work) as **Data Scientist**
+-   🔭 I am on the way to be **Data Scientist**
 -   :monocle_face: Interested in everything **Machine Learning**
 -   :seedling: Currently learning **PyTorch's fast.ai**
 -   :heart: Math enthusiast
--   ⚡ I trained my first SOTA ML model without a GPU 
 
 <br />
 
