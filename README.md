@@ -12,9 +12,9 @@
 
 ### About me
 
--   🔭 I am on the way to be **Data Scientist**
+-   🔭 I am ML Engineer at [Tahrirchi](https://tahrirchi.uz/)
 -   :monocle_face: Interested in everything **Machine Learning**
--   :seedling: Currently learning **PyTorch's fast.ai**
+-   :seedling: Currently learning from **NLP Specialization**
 -   :heart: Math enthusiast
 
 <br />
