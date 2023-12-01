@@ -2,7 +2,7 @@
 
 (Use dark theme to find my socials ;)
 
-<a href="https://https://murodbek.substack.com" target="_blank"><img align="left" alt="shopulatov.github.io" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://murodbek.substack.com" target="_blank"><img align="left" alt="shopulatov.github.io" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://linkedin.com/in/abrorshopulatov" target="_blank"><img align="left" alt="Abror Shopulatov | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://twitter.com/murodbeck" target="_blank"><img align="left" alt="Abror Shopulatov | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 
